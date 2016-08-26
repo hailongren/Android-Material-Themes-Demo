@@ -1,7 +1,7 @@
 <!-- @formatter:off -->
 <resources>
     <!-- App -->
-    <string name="app_name">Material Themes Made Easy</string>
+    <string name="app_name">M.Themes</string>
 
     <!-- Home -->
     <string name="home_tab_xml">XML</string>
